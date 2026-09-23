@@ -1,43 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Ahamad%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src=".github/assets/hero.svg" alt="Your Name — Data Analyst" width="100%" />
 
+<img src=".github/assets/workflow.svg" alt="Workflow: collect, clean, analyze, visualize, communicate" width="100%" />
 
-</div>
+<img src=".github/assets/tech-stack.svg" alt="Tech stack" width="100%" />
 
+<img src=".github/assets/about.svg" alt="About" width="100%" />
 
-**Data Analyst** turning raw data into clear, actionable insights.
+<img src=".github/assets/exploring.svg" alt="Currently exploring" width="100%" />
 
-I enjoy working with data to uncover trends, build dashboards, and help teams make better decisions. Always learning, always exploring new ways to tell stories with data.
+<a href="https://github.com/YOUR-USERNAME"><img src=".github/assets/link-github.svg" alt="GitHub" height="64" /></a><a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src=".github/assets/link-linkedin.svg" alt="LinkedIn" height="64" /></a><a href="https://your-portfolio.com"><img src=".github/assets/link-portfolio.svg" alt="Portfolio" height="64" /></a><a href="mailto:you@example.com"><img src=".github/assets/link-email.svg" alt="Email" height="64" /></a>
 
-## 🛠️ Skills & Tools
+<img src=".github/assets/footer.svg" alt="Footer" width="100%" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## 🌐 Find me around the web
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahamad-anupuru">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ahamad2164">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-⭐️ Thanks for stopping by — feel free to explore my repositories and connect!
 </div>
