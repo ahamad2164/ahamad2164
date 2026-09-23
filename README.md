@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Ahamad%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://github.com/ahamad2164.png" width="140" style="border-radius:50%" />
 
 </div>
 
-# Ahamad Anupuru
 
 **Data Analyst** turning raw data into clear, actionable insights.
 
