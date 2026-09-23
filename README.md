@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahamad
+# 👋 Hi, I'm Ahamad Anupuru
 
 📊 Data Analyst | Python | SQL | Excel | Power BI
 
