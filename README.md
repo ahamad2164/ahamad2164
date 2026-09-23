@@ -1,17 +1,48 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ahamad Anupuru 👋</h1>
 
-<img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/hero.svg" alt="Ahamad Anupuru — Data Analyst" width="100%" />
+<p align="center">
+  <b>Data Analyst</b> · Raw data → Clear insights → Better decisions
+</p>
 
-<img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/workflow.svg" alt="Workflow: collect, clean, analyze, visualize, communicate" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahamad-anupuru"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aahamad2146@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/tech-stack.svg" alt="Tech stack" width="100%" />
+---
 
-<img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/about.svg" alt="About" width="100%" />
+## 📊 About Me
 
-<img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/exploring.svg" alt="Currently exploring" width="100%" />
+I'm a data analyst who turns messy, real-world datasets into clear answers — from SQL exploration and statistical analysis to interactive dashboards and business-ready reports. I care about clean data, meaningful metrics, and communicating insights people can act on.
 
-<a href="https://github.com/ahamad2164"><img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/link-github.svg" alt="GitHub" height="64" /></a><a href="https://www.linkedin.com/in/ahamad-anupuru"><img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/link-linkedin.svg" alt="LinkedIn" height="64" /></a><a href="https://your-portfolio.com"><img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/link-portfolio.svg" alt="Portfolio" height="64" /></a><a href="mailto:aahamad2146@gmail.com"><img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/link-email.svg" alt="Email" height="64" /></a>
+I'm a B.Tech student in **AI & Data Science**, focused on analytics, dashboards, statistics, and storytelling.
 
-<img src="https://raw.githubusercontent.com/ahamad2164/ahamad2164/main/assets/footer.svg" alt="Footer" width="100%" />
+## 🔄 How I Work
 
-</div>
+**Collect** (SQL · APIs · CSV) → **Clean** (Pandas · Excel) → **Analyze** (EDA · Statistics) → **Visualize** (Power BI · Tableau) → **Communicate** (Stories · Decisions)
+
+## 🛠️ Tech Stack
+
+**Languages & Databases:** Python · SQL · PostgreSQL · MySQL
+
+**Analysis:** Pandas · NumPy · SciPy · Statsmodels · scikit-learn · Excel · Google Sheets
+
+**Visualization & BI:** Power BI · Tableau · Matplotlib · Seaborn · Plotly · Streamlit
+
+**Tools:** Jupyter · Git & GitHub
+
+## 🔭 Currently Exploring
+
+- Advanced SQL & Window Functions
+- Predictive Modeling
+- Power BI & DAX
+- Statistical Inference
+- Data Storytelling
+- AI-Assisted Analytics
+
+## 📫 Let's Connect
+
+Open to data analyst opportunities. The quickest way to reach me is by [email](mailto:aahamad2146@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ahamad-anupuru).
+
+<p align="center"><i>Data, decoded with clarity.</i></p>
