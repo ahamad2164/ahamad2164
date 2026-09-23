@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ahamad Anupuru 👋</h1>
 
-<h2 align="center">
+<h3 align="center">
   <b>Data Analyst</b> 
-</h2>
+</h3>
 <p align="center">
   <b> Raw data → Clear insights → Better decisions </b>
 </p>
