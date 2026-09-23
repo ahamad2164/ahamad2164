@@ -2,7 +2,9 @@
 
 <p align="center">
   <b>Data Analyst</b> 
-  · Raw data → Clear insights → Better decisions
+</p>
+<p align="center">
+  <b> Raw data → Clear insights → Better decisions </b>
 </p>
 
 <p align="center">
